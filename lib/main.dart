@@ -73,7 +73,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
         backgroundColor: Colors.black,
         appBar: AppBar(
-          title: Text("\$ Conversor de Moedas \$"),
+          title: Text("Conversor de Moedas"),
           backgroundColor: Colors.amber,
           centerTitle: true,
         ),
